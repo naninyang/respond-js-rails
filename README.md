@@ -1,5 +1,5 @@
-Respond JS for Rails
-====================
+Respond JS for Rails3
+=====================
 
 This gem adds Respond.js to your rails assets.
 

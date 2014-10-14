@@ -8,7 +8,7 @@ Gem::Specification.new do |s|
   s.version       = RespondJsRails::VERSION
   s.authors       = ["Jayz Ko"]
   s.email         = ["gtalk.with.nani@gmail.com"]
-  s.summary       = "Bundles the 'respond.js' asset for rails"
+  s.summary       = "Bundles the 'respond.js' asset for rails3"
   s.description   = "For all of you, who prefer to add JS libraries via gem"
   s.homepage      = "https://github.com/naninyang/respond-js-rails/"
   s.license       = "MIT"
